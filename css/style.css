@@ -24,7 +24,8 @@ nav ul li {
 	display: inline-block;
 	padding-right: 20px;
 	text-transform: uppercase;
-	font-family: "Pacifico";
+	font-family: 'Archivo Narrow', sans-serif;
+	font-size: 20px;
 	letter-spacing: 1px;
 }
 
@@ -89,4 +90,18 @@ a {
 	background-color: #508998;
 	color: white;
 	transition: 
+}
+
+footer {
+	background-color: #9cc5d0;
+	padding: 10px 20px;
+}
+
+footer ul li {
+	display: inline-block;
+	padding-right: 20px;
+	text-transform: uppercase;
+	font-family: 'Archivo Narrow', sans-serif;
+	font-size: 20px;
+	letter-spacing: 1px;
 }
